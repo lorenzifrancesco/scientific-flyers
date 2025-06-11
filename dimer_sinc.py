@@ -5,7 +5,7 @@ import argparse
 import random
 import os
 
-cmap_global = "gnuplot2"
+cmap_global = "YlGn"
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Generate interference patterns from multiple sinc functions')
